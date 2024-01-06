@@ -1,0 +1,6 @@
+# glfwcairo
+*.bak
+*.exe
+build
+lib
+tmp
